@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Huan
+- ⚡ I'm a PCB designer
+- 🌱 I’m currently learning python & c/c++
