@@ -9,4 +9,4 @@
 [![Zalo](https://img.shields.io/badge/Zalo-0815088078-075985?style=flat&logo=whatsapp&logoColor=white)](https://zalo.me/0815088078)
 
 
-✨ *"Hardware is the canvas, code is the brush."*  
+✨ *"Hardware is burning."*  ![this is fine](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
