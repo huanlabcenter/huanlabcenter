@@ -1,6 +1,3 @@
-# 👋 Hi there, I'm Huan!
-
-🎯 **PCB Designer | Lifelong Learner**
 
 📫 Reach me at:  
 [![Email](https://img.shields.io/badge/Email-huan.lyphong293@gmail.com-red?style=flat&logo=gmail)](mailto:huan.lyphong293@gmail.com)  
